@@ -1,8 +1,5 @@
-# extjfx
-extjfx for java 17 and javafx 13
-Forked from https://github.com/extjfx/extjfx 
-
-
+[![Build Status](https://travis-ci.com/extjfx/extjfx.svg?branch=master)](https://travis-ci.com/extjfx/extjfx)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # ExtJFX
 
@@ -418,3 +415,4 @@ Download the [executable jar](https://github.com/extjfx/extjfx/releases/download
 ```
 java -jar extjfx-samples-[version].jar
 ```
+
